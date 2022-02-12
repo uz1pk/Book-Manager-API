@@ -5,8 +5,8 @@ Technologies needed to implement, MongoDB,  ExpressJS, body-parser node module a
 # Purpose
 Learn the fundamentals of RESTful API and use NodeJS to apply the understanding of it.
 
-# Technology Stack
-**Languages:** JavaScript
-**Server:** NodeJS, Mongoose, and ExpressJS
-**Database:** MongoDB
+# Technology Stack  
+**Languages:** JavaScript  
+**Server:** NodeJS, Mongoose, and ExpressJS  
+**Database:** MongoDB  
 **Other:** Body-Parser Module
