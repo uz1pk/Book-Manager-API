@@ -1,5 +1,5 @@
 # RESTful-API
-A basic implementation of the RESTful API done as apart of a 2022 Web Development Bootcamp course. 
+A basic implementation of the RESTful API for article/book related data. 
 Technologies needed to implement, MongoDB,  ExpressJS, body-parser node module and Mongoose.
 
 # Purpose
