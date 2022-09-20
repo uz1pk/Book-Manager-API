@@ -1,4 +1,4 @@
-# RESTful-API
+# Book Manager API
 A basic implementation of the RESTful API for article/book related data. 
 Technologies needed to implement, MongoDB,  ExpressJS, body-parser node module and Mongoose.
 
